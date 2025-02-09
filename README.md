@@ -4,7 +4,7 @@ Generador de parejas para Amigo Secreto
 
 ¡Una aplicación web para organizar sorteos de **Amigo Secreto** de manera fácil y divertida! Perfecta para eventos navideños, cumpleaños o cualquier ocasión especial.
 
-🔗 **Demo**: [Ver en vivo](https://[tu-usuario].github.io/amigo-secreto/)
+🔗 **Demo**: [[Ver en vivo](https://[tu-usuario].github.io/amigo-secreto/)](https://jojosahib.github.io/Challenge-Amigo-Secreto/)
 
 ---
 
